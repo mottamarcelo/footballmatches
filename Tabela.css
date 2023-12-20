@@ -1,0 +1,44 @@
+* {
+    font-family: calibri;
+    text-align: center;
+}
+
+body {
+  background-image: url("https://media.licdn.com/dms/image/D4D3DAQGD93i7WmXmZA/image-scale_191_1128/0/1690225979873/conmebol_copa_america_2024_cover?e=2147483647&v=beta&t=LmPzt1-HNiRHlJ0CHmkVPGDvpebejIGGtp2sHed5zIU");
+}
+
+h1, h2 {
+  color: whitesmoke;
+}
+
+#info {
+    margin: auto;
+    width: 30%;
+    background-color: darkgray;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+#jogo {
+    position: relative;
+    box-sizing: border-box;
+    margin: auto;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    background-color: lightgrey;
+    margin-bottom: 15px;
+    padding: 25px;
+    border-radius: 5px;
+}
+  
+#gols {
+    width: 30px;
+    height: 30px;
+    margin: 1px;
+}
+  
+p {
+    width: 250px;
+    margin: auto;
+}
